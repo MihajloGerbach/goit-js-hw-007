@@ -1,5 +1,5 @@
 import { galleryItems } from "./gallery-items.js";
-import { createGalleryCardEl } from "./createGallaryCard.js";
+import { createGalleryCardEl } from "./createGalleryCard.js";
 
 const gallery = document.querySelector(".gallery");
 
